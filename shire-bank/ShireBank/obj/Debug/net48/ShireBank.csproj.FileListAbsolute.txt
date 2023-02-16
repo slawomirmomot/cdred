@@ -1,0 +1,28 @@
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\bin\Debug\net48\ShireBank.exe.config
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\bin\Debug\net48\ShireBank.exe
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\bin\Debug\net48\ShireBank.pdb
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\bin\Debug\net48\SharedInterface.dll
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\bin\Debug\net48\SharedInterface.pdb
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.AssemblyReference.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.AssemblyInfoInputs.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.AssemblyInfo.cs
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.CoreCompileInputs.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.CopyComplete
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.exe
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBank\obj\Debug\net48\ShireBank.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\bin\Debug\net48\ShireBank.exe.config
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\bin\Debug\net48\ShireBank.exe
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\bin\Debug\net48\ShireBank.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\bin\Debug\net48\SharedInterface.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\bin\Debug\net48\SharedInterface.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.AssemblyReference.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.AssemblyInfoInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.AssemblyInfo.cs
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.CoreCompileInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.csproj.CopyComplete
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.exe
+C:\Users\PLK054143\Desktop\PRO\shire-bank\ShireBank\obj\Debug\net48\ShireBank.pdb

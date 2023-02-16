@@ -1,0 +1,2 @@
+C:\Projects\shire-bank\GrpcGreeter2\obj\Debug\net7.0\GrpcGreeter2.csproj.AssemblyReference.cache
+C:\Projects\shire-bank\GrpcGreeter2\obj\Debug\net7.0\GrpcGreeter2.GeneratedMSBuildEditorConfig.editorconfig

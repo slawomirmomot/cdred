@@ -1,0 +1,2 @@
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0-windows\ShireBankGrcp.csproj.AssemblyReference.cache
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0-windows\ShireBankGrcp.GeneratedMSBuildEditorConfig.editorconfig

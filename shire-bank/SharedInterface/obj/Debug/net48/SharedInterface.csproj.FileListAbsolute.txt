@@ -1,0 +1,18 @@
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\bin\Debug\net48\SharedInterface.dll
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\bin\Debug\net48\SharedInterface.pdb
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.csproj.AssemblyReference.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.AssemblyInfoInputs.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.AssemblyInfo.cs
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.dll
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\bin\Debug\net48\SharedInterface.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\bin\Debug\net48\SharedInterface.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.csproj.AssemblyReference.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.AssemblyInfoInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.AssemblyInfo.cs
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.csproj.CoreCompileInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedInterface\obj\Debug\net48\SharedInterface.pdb

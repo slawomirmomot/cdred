@@ -1,0 +1,36 @@
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.csproj.AssemblyReference.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.csproj.AssemblyReference.cache
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\appsettings.json
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\ShireBankGrcp.exe
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\ShireBankGrcp.deps.json
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\ShireBankGrcp.runtimeconfig.json
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\ShireBankGrcp.dll
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\ShireBankGrcp.pdb
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Projects\shire-bank\ShireBankGrcp\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.AssemblyInfoInputs.cache
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.AssemblyInfo.cs
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.csproj.CoreCompileInputs.cache
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\staticwebassets\msbuild.ShireBankGrcp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\staticwebassets\msbuild.build.ShireBankGrcp.props
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShireBankGrcp.props
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShireBankGrcp.props
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\scopedcss\bundle\ShireBankGrcp.styles.css
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.csproj.CopyComplete
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.dll
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\refint\ShireBankGrcp.dll
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.pdb
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ShireBankGrcp.genruntimeconfig.cache
+C:\Projects\shire-bank\ShireBankGrcp\obj\Debug\net6.0\ref\ShireBankGrcp.dll

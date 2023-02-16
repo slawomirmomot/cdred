@@ -1,0 +1,12 @@
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\bin\Debug\net6.0\SharedLib.deps.json
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\bin\Debug\net6.0\SharedLib.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\bin\Debug\net6.0\SharedLib.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\SharedLib.csproj.AssemblyReference.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\SharedLib.AssemblyInfoInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\SharedLib.AssemblyInfo.cs
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\SharedLib.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\refint\SharedLib.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\SharedLib.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\SharedLib\obj\Debug\net6.0\ref\SharedLib.dll

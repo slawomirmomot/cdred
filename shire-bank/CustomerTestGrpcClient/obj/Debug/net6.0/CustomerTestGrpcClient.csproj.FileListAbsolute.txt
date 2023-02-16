@@ -1,0 +1,5 @@
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTestGrpcClient\obj\Debug\net6.0\CustomerTestGrpcClient.csproj.AssemblyReference.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTestGrpcClient\obj\Debug\net6.0\CustomerTestGrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTestGrpcClient\obj\Debug\net6.0\CustomerTestGrpcClient.AssemblyInfoInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTestGrpcClient\obj\Debug\net6.0\CustomerTestGrpcClient.AssemblyInfo.cs
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTestGrpcClient\obj\Debug\net6.0\CustomerTestGrpcClient.csproj.CoreCompileInputs.cache

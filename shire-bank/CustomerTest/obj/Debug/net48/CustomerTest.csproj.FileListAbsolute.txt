@@ -1,0 +1,38 @@
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\bin\Debug\net48\CustomerTest.exe.config
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\bin\Debug\net48\CustomerTest.exe
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\bin\Debug\net48\CustomerTest.pdb
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\bin\Debug\net48\SharedInterface.dll
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\bin\Debug\net48\SharedInterface.pdb
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.AssemblyReference.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.AssemblyInfoInputs.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.AssemblyInfo.cs
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.CoreCompileInputs.cache
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.CopyComplete
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.exe
+C:\Users\Sławomir Momot\OneDrive\Pulpit\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\CustomerTest.exe.config
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\CustomerTest.exe
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\CustomerTest.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\Grpc.Core.Api.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\Grpc.Net.Client.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\Grpc.Net.Common.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\System.Buffers.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\System.Memory.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\SharedInterface.dll
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\bin\Debug\net48\SharedInterface.pdb
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.AssemblyReference.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.AssemblyInfoInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.AssemblyInfo.cs
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.CoreCompileInputs.cache
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.csproj.CopyComplete
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.exe
+C:\Users\PLK054143\Desktop\PRO\shire-bank\CustomerTest\obj\Debug\net48\CustomerTest.pdb
